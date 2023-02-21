@@ -61,7 +61,7 @@
 
 void Cube (int num)
 {
-  int N = 0;
+  int N = 1;
   while (N <= num)
   {
     Console.WriteLine(N*N*N);
