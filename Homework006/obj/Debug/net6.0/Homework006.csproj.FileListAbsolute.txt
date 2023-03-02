@@ -1,0 +1,15 @@
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.csproj.AssemblyReference.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.AssemblyInfoInputs.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.AssemblyInfo.cs
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.csproj.CoreCompileInputs.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\bin\Debug\net6.0\Homework006.exe
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\bin\Debug\net6.0\Homework006.deps.json
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\bin\Debug\net6.0\Homework006.runtimeconfig.json
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\bin\Debug\net6.0\Homework006.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\bin\Debug\net6.0\Homework006.pdb
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\refint\Homework006.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.pdb
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\Homework006.genruntimeconfig.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework006\obj\Debug\net6.0\ref\Homework006.dll
