@@ -1,0 +1,15 @@
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.csproj.AssemblyReference.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.AssemblyInfoInputs.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.AssemblyInfo.cs
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.csproj.CoreCompileInputs.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\bin\Debug\net6.0\Homework007.exe
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\bin\Debug\net6.0\Homework007.deps.json
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\bin\Debug\net6.0\Homework007.runtimeconfig.json
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\bin\Debug\net6.0\Homework007.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\bin\Debug\net6.0\Homework007.pdb
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\refint\Homework007.dll
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.pdb
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\Homework007.genruntimeconfig.cache
+C:\Users\assam\Desktop\dotnet1\Homeworks\Homework007\obj\Debug\net6.0\ref\Homework007.dll
