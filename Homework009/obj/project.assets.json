@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\assam\\Desktop\\dotnet1\\Homeworks\\Homework009\\Homework009.csproj",
+      "projectUniqueName": "C:\\Users\\assam\\Desktop\\С#_Tasks\\Homeworks\\Homework009\\Homework009.csproj",
       "projectName": "Homework009",
-      "projectPath": "C:\\Users\\assam\\Desktop\\dotnet1\\Homeworks\\Homework009\\Homework009.csproj",
+      "projectPath": "C:\\Users\\assam\\Desktop\\С#_Tasks\\Homeworks\\Homework009\\Homework009.csproj",
       "packagesPath": "C:\\Users\\assam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\assam\\Desktop\\dotnet1\\Homeworks\\Homework009\\obj\\",
+      "outputPath": "C:\\Users\\assam\\Desktop\\С#_Tasks\\Homeworks\\Homework009\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\assam\\AppData\\Roaming\\NuGet\\NuGet.Config"
